@@ -1,0 +1,20 @@
+[
+  {
+    "id": "813e9bff-5f9d-4428-b333-d7762b2e84f8",
+    "name": "weapon",
+    "title": "Оружие",
+    "icon": "tablet-black-market/category_weapon_icon.svg"
+  },
+  {
+    "id": "b07935be-0113-4d13-ba27-ddca5cf5db25",
+    "name": "drugs",
+    "title": "Наркотики",
+    "icon": "tablet-black-market/category_drugs_icon.svg"
+  },
+  {
+    "id": "3406bea6-d754-4698-b99e-ecb01e505be2",
+    "name": "ammo",
+    "title": "Патроны",
+    "icon": "tablet-black-market/category_ammo_icon.svg"
+  }
+]
